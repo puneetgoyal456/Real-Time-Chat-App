@@ -54,21 +54,21 @@ Start the Client
 
 ### Authenticaton
 
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/login.PNG)
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/signup.PNG)
+![](https://github.com/puneetgoyal456/Real-Time-Chat-App/blob/main/screenshots/login.PNG)
+![](https://github.com/puneetgoyal456/Real-Time-Chat-App/blob/main/screenshots/signup.PNG)
 
 ### One to One chat
 
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/mainscreen.PNG)
+![](https://github.com/puneetgoyal456/Real-Time-Chat-App/blob/main/screenshots/mainscreen.PNG)
 
 ### Search Users
 
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/search.PNG)
+![](https://github.com/puneetgoyal456/Real-Time-Chat-App/blob/main/screenshots/search.PNG)
 
 ### Create Group Chats
 
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/new%20grp.PNG)
+![](https://github.com/puneetgoyal456/Real-Time-Chat-App/blob/main/screenshots/new%20grp.PNG)
 
 ### Notifications
 
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
+![](https://github.com/puneetgoyal456/Real-Time-Chat-App/blob/main/screenshots/group%20%2B%20notif.PNG)
